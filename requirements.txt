@@ -1,0 +1,10 @@
+ttkbootstrap
+pyautogui
+pynput
+flask
+mss
+opencv-python
+pillow
+pytesseract
+selenium
+webdriver-manager

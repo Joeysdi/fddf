@@ -1,0 +1,11 @@
+# constants.py
+PASSWORD = "your_strong_password_here"  # ⚠️ CHANGE THIS TO SOMETHING STRONG!
+
+HOTKEY_RECORD = "f6"
+HOTKEY_PLAY = "f7"
+HOTKEY_STOP = "f8"
+
+PRIMARY_MONITOR = 1
+JPEG_QUALITY = 60
+FLASK_HOST = "0.0.0.0"
+FLASK_PORT = 5000
