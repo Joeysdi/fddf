@@ -1,4 +1,4 @@
-# actions_init.py (updated)
+# actions_init.py
 from actions_basic import get_basic_actions
 from actions_conditions import get_condition_actions
 from actions_ocr import get_ocr_actions
